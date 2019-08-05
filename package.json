@@ -1,0 +1,48 @@
+{
+  "name": "react-native-af-video-player-update",
+  "version": "0.2.1",
+  "dependencies": {
+    "react-native-keep-awake": "^4.0.0",
+    "react-native-linear-gradient": "2.5.6",
+    "react-native-orientation": "^3.1.0",
+    "react-native-slider": "https://github.com/abbasfreestyle/react-native-slider.git",
+    "react-native-vector-icons": "^6.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "21.2.0",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "description": "An updated, customisable React Native video player for Android and IOS based on AF-video-player from abbasfreestyle",
+  "homepage": "https://github.com/abbasfreestyle/react-native-rb-video-player#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "video",
+    "player",
+    "fullscreen"
+  ],
+  "maintainers": [
+    {
+      "name": "rbcorrea",
+      "email": "rodrigoxcorrea@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Rodrigo Correa",
+    "email": "rodrigoxcorrea@gmail.com",
+    "url": "https://github.com/rbcorrea"
+  },
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-video": "*"
+  }
+}
