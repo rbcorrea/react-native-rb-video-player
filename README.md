@@ -1,10 +1,4 @@
-# react-native-af-video-player
-
-[![npm version](http://img.shields.io/npm/v/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm downloads](http://img.shields.io/npm/dm/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm licence](http://img.shields.io/npm/l/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-989898.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
-[![npm](https://img.shields.io/npm/dt/react-native-af-video-player.svg?style=flat-square)](https://npmjs.org/package/react-native-af-video-player "View this project on npm")
+# react-native-~~af~~rb-video-player
 
 A customisable React Native video player for Android and IOS
 
@@ -21,7 +15,7 @@ A customisable React Native video player for Android and IOS
 ## Install
 
 ```shell
-npm i -S react-native-af-video-player
+npm i -S react-native-rb-video-player
 ```
 
 Then link
@@ -39,7 +33,7 @@ react-native link react-native-linear-gradient
 ```jsx
 import React from 'react'
 import { AppRegistry, StyleSheet, View } from 'react-native'
-import Video from 'react-native-af-video-player'
+import Video from 'react-native-rb-video-player'
 
 const styles = StyleSheet.create({
   container: {
