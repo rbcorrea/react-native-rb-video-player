@@ -61,6 +61,8 @@ class ScrollView extends Component {
 
   render() {
     const { fullscreen } = this.state
+    const scrollViewRef = React.createRef();
+
     const {
       bounces,
       children,
@@ -71,7 +73,7 @@ class ScrollView extends Component {
     return (
       <RNScrollView
         {...scrollProps}
-        ref={(scroll) => { this.scroll = scroll }}
+        ref={scrollViewRef}
         bounces={fullscreen ? !fullscreen : bounces}
         onScroll={(event) => {
           if (!fullscreen) this.scrollPos = event.nativeEvent.contentOffset.y
