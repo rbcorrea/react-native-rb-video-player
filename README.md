@@ -1,6 +1,8 @@
 # react-native-~~af~~rb-video-player
 
-A customisable React Native video player for Android and IOS
+A customisable, updated, React Native video player for Android and IOS, based on [abbasfreestyle react-native-af-video-palyer](https://github.com/abbasfreestyle/react-native-af-video-player).
+
+This is a result of not merged pull requests and some modifications planned to be used with React Native 0.58+ version.
 
 ![Demo](./demo.gif)
 
