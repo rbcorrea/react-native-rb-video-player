@@ -1,6 +1,6 @@
 {
   "name": "react-native-rb-video-player",
-  "version": "1.0.0-3",
+  "version": "1.0.0",
   "dependencies": {
     "react-native-keep-awake": "^4.0.0",
     "react-native-linear-gradient": "^2.5.6",
