@@ -17,7 +17,7 @@
     "react-test-renderer": "16.8.3"
   },
   "description": "An updated, customisable React Native video player for Android and IOS based on AF-video-player from abbasfreestyle",
-  "homepage": "https://github.com/rodrigoxcorrea/react-native-rb-video-player#readme",
+  "homepage": "https://github.com/rbcorrea/react-native-rb-video-player#readme",
   "keywords": [
     "react-component",
     "react-native",
